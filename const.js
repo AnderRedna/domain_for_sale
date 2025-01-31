@@ -13,7 +13,7 @@ h1.textContent += domainName;
 document.head.innerHTML += htmlTitle;
 
 document.addEventListener("DOMContentLoaded", function () {
-  const phoneNumber = "+77077770707"; // Replace with your phone number
+  const phoneNumber = "+559493033499"; // Replace with your phone number
   const messageText = encodeURIComponent(
     "I want to buy the " + domainName + " domain."
   ); // Replace with your message text, only between ""
